@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1440" height="850" preserveAspectRatio="none" viewBox="0 0 1440 850">
+    <g mask="url(&quot;#SvgjsMask1062&quot;)" fill="none">
+        <rect width="1440" height="850" x="0" y="0" fill="rgba(220, 220, 220, 1)"></rect>
+        <path d="M0 0L184.29 0L0 105.74z" fill="rgba(255, 255, 255, .1)"></path>
+        <path d="M0 105.74L184.29 0L668.21 0L0 468.65000000000003z" fill="rgba(255, 255, 255, .075)"></path>
+        <path d="M0 468.65000000000003L668.21 0L1017.52 0L0 539.12z" fill="rgba(255, 255, 255, .05)"></path>
+        <path d="M0 539.12L1017.52 0L1258.17 0L0 704.24z" fill="rgba(255, 255, 255, .025)"></path>
+        <path d="M1440 850L1041.72 850L1440 458.31z" fill="rgba(0, 0, 0, .1)"></path>
+        <path d="M1440 458.31L1041.72 850L470.77 850L1440 439.03z" fill="rgba(0, 0, 0, .075)"></path>
+        <path d="M1440 439.03L470.77 850L352.34 850L1440 259.30999999999995z" fill="rgba(0, 0, 0, .05)"></path>
+        <path d="M1440 259.30999999999995L352.3399999999999 850L145.8799999999999 850L1440 156.00999999999993z" fill="rgba(0, 0, 0, .025)"></path>
+    </g>
+    <defs>
+        <mask id="SvgjsMask1062">
+            <rect width="1440" height="850" fill="#ffffff"></rect>
+        </mask>
+    </defs>
+</svg>
