@@ -1,5 +1,6 @@
 "use client"; // Mark this component as a Client Component
 
+import Link from 'next/link';
 import React, { useState } from 'react';
 
 const Navbar = () => {
@@ -13,7 +14,7 @@ const Navbar = () => {
     <nav className="bg-white text-black shadow-lg sticky top-0 z-50">
       <div className="flex items-center justify-between p-4 mx-[50px]">
         <div className="navbar-logo">
-          <h1 className="font-extrabold text-2xl">Pixel Game</h1>
+       <Link href="/"  <h1 className="font-extrabold text-2xl">Pixel Game</h1> /> 
         </div>
         <div className="hidden md:flex">
           <ul className="flex gap-8">
